@@ -5,7 +5,11 @@ Designed a system called "ConnectWithTeam" using FIGMA.
 
 DESIGN LINK : https://www.figma.com/file/TTYQArMrg4HTOZgU3mCz4n/ConnectWithTeam?type=design&node-id=0%3A254&mode=design&t=PlTTCnlzD2cI386p-1
 
+
+
+
 Landing Page and LOGO :
+
 
 
 
@@ -14,7 +18,9 @@ Landing Page and LOGO :
 
 
 
+
 ![IMAGE_2](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/b0c9b8e5-7772-4ef4-bb58-b2701d2b10a9)
+
 
 
 
@@ -25,7 +31,9 @@ Features include home communication, operational updates, surveys, and a chat fu
 
 
 
+
 ![IMAGE_12](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/88f12864-f942-4ed3-9e3d-c7e53ed16287)
+
 
 
 
@@ -35,7 +43,9 @@ Operational Efficiency:
 
 
 
+
 ![IMAGE_3](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/76a2ca27-8f9e-4743-98cd-9046da7592d9)
+
 
 
 
@@ -45,7 +55,9 @@ Operational Efficiency:
 
 
 
+
 ![IMAGE_7](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/0468a33b-78a0-4a17-a1ad-9aac8969555c)
+
 
 
 
@@ -59,7 +71,9 @@ Employees can showcase their style and contribute to a vibrant community atmosph
 
 
 
+
 ![IMAGE_8](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/d9689b0c-04db-4cc5-8798-2e3339a082e4)
+
 
 
 
@@ -69,7 +83,9 @@ The platform fosters employee engagement with surveys and forms, enabling feedba
 
 
 
+
 ![IMAGE_9](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/1ba2e6ca-57e6-4904-a61e-b062c2c86616)
+
 
 
 
@@ -79,7 +95,9 @@ Comprehensive employee profiles, along with secure login and registration functi
 
 
 
+
 ![IMAGE_10](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/fba17026-c087-4051-a480-8b1bd8ffa3e6)
+
 
 
 
@@ -89,7 +107,9 @@ Comprehensive employee profiles, along with secure login and registration functi
 
 
 
+
 ![IMAGE_6](https://github.com/Samrudhi00/ConnectWithTeam-System-Design-with-Figma/assets/89694069/1b5c5939-c694-49d9-a6f9-e7c5cf4e3284)
+
 
 
 
